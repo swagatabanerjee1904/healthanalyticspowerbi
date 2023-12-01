@@ -14,17 +14,8 @@ The dataset includes key demographic details (age, gender, ethnicity, marital st
 
 The SQL project involves a series of queries applied to the dataset to extract meaningful information, analyze patterns, and derive insights. These queries cover aspects such as demographic distribution, symptom severity, medication prescriptions, and the presence of family history.
 
-### Getting Started
 
-```sql
--- Database Setup
--- Import the dataset into your preferred SQL database.
--- Create the necessary tables based on the dataset schema.
-
--- Run SQL Queries
--- Execute the provided SQL queries in your SQL environment to generate the required data sets for analysis.
-
-# Power BI Project: OCD Patient Dataset
+## Power BI Project: OCD Patient Dataset
 
 ## Overview
 
@@ -75,8 +66,4 @@ This Power BI project utilizes the "OCD Patient Dataset: Demographics & Clinical
 This Power BI project enhances the understanding of OCD and its manifestations within the patient population. The combination of SQL analysis and a Power BI dashboard provides a holistic perspective, making it a valuable resource for researchers, clinicians, and mental health professionals.
 
 Feel free to reach out for any inquiries or improvements to the dashboard.
-
----
-
-**Note:** Ensure that your users have the necessary permissions and credentials to access the SQL database when using the Power BI project.
 
